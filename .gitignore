@@ -1,0 +1,6 @@
+.venv/
+index/
+*.xlsx
+*.csv
+__pycache__/
+.env
